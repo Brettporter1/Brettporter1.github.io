@@ -1,2 +1,2 @@
-# Brettporter1.github.io
-my page on github
+# MyFirstPage
+day 2 bootcamp
